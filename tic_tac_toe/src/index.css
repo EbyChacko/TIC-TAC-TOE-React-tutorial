@@ -100,7 +100,9 @@ body {
 }
 
 .status {
+  color: white;
   margin-bottom: 10px;
+  font-size: 25px;
 }
 .game {
   display: flex;
